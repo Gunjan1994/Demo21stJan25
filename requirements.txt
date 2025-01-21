@@ -6,3 +6,8 @@ Featues:
 -Background color
 -Text color
 -Vibrant
+-Audio calls
+-Video Calls
+-Image sharing
+- Dark mode
+- Voice Message
