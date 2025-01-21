@@ -11,3 +11,6 @@ Featues:
 -Image sharing
 - Dark mode
 - Voice Message
+-Payment Option
+Send Money
+Receive Money
